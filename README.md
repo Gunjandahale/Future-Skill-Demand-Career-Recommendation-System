@@ -109,6 +109,7 @@ The basic calculation is:
 ```text
 Skill Match =
 (User Skill / Required Skill) × 100
+---
 
 **##📊 Main Features**
 1. Create Profile
