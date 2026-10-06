@@ -1,5 +1,4 @@
-# Future-Skill-Demand-Career-Recommendation-System
-Python-based career recommendation system using skill matching, career ranking, skill gap analysis and future-demand scores.
+
 # 🚀 Future Skill Demand & Career Recommendation System – 2030
 
 A beginner-friendly Python project that analyzes a user's skills, compares them with different career requirements, and recommends suitable career paths based on skill compatibility and sample future-demand scores.
