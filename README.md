@@ -111,12 +111,3 @@ Skill Match =
 (User Skill / Required Skill) × 100
 ---
 
-**##📊 Main Features**
-1. Create Profile
-
-Users can enter:
-
-Name
-Education
-Experience
-Main Interest Area
