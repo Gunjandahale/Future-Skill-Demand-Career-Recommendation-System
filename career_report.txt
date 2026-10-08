@@ -1,0 +1,43 @@
+======================================================================
+       FUTURE SKILL DEMAND & CAREER REPORT - 2030
+======================================================================
+
+USER PROFILE
+----------------------------------------
+Name       : gunjan
+Education  : bsc
+Experience : 0.0 years
+Interest   : data analyst
+
+CURRENT SKILLS
+----------------------------------------
+Python                   : 4/5
+SQL                      : 3/5
+Excel                    : 5/5
+Statistics               : 3/5
+Machine Learning         : 4/5
+Communication            : 4/5
+
+CAREER RECOMMENDATIONS
+----------------------------------------
+1. Cybersecurity Analyst : 98.2%
+2. Cloud Engineer : 97.9%
+3. AI Engineer : 90.37%
+4. Machine Learning Engineer : 90.07%
+5. Business Analyst : 89.35%
+
+TOP RECOMMENDED CAREER
+----------------------------------------
+Cybersecurity Analyst
+Future Demand Score: 94
+
+SKILL GAP ANALYSIS
+----------------------------------------
+No major skill gaps found.
+
+LEARNING RECOMMENDATIONS
+----------------------------------------
+
+======================================================================
+End of Career Analysis Report
+======================================================================

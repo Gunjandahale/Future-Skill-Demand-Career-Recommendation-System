@@ -1,0 +1,17 @@
+
+==================================================
+FUTURE CAREER USER PROFILE
+==================================================
+Name       : gunjan
+Education  : bsc
+Experience : 0.0 years
+Interest   : data analyst
+
+SKILLS
+Python : 4/5
+SQL : 3/5
+Excel : 5/5
+Statistics : 3/5
+Machine Learning : 4/5
+Communication : 4/5
+==================================================
